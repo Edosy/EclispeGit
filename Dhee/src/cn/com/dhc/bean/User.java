@@ -1,5 +1,5 @@
 package cn.com.dhc.bean;
- // ²âÊÔ
+ 
 public class User {
 	private int id;
 	private String name;
